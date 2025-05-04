@@ -1,1 +1,3 @@
-En esta sección se presentan codigos de aprendizaje maquina aplicados a problemas relacionados con clasificación y prediccion de insumos institucuonales 
+**Descripción:**
+
+En esta sección se presentan códigos de aprendizaje automático aplicados a problemas institucionales, enfocados en tareas de clasificación y predicción a partir de insumos 
