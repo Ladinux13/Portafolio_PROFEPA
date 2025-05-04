@@ -12,3 +12,10 @@ Este repositorio reúne una selección de proyectos y desarrollos aplicados en m
 
 - Para mayor detalle o contexto sobre los proyectos presentados, favor de contactarme directamente.
 
+El portafolio está organizado en cuatro secciones principales, cada una enfocada en un conjunto específico de habilidades y aplicaciones técnicas:
+
+* Main
+* -Aprendizaje automático
+* -Dashboards
+* -Geoespaciales
+* -Optimización de procesos
