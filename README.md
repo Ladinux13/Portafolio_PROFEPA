@@ -9,4 +9,3 @@ Este repositorio reúne una selección de proyectos y desarrollos aplicados en m
 5. Proyectos variados
 
 
-Mi objetivo es mostrar la aplicabilidad de herramientas tecnológicas avanzadas en la solución de problemas institucionales complejos, con énfasis en datos georreferenciados, eficiencia operativa y transparencia.
