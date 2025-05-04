@@ -1,4 +1,4 @@
-# Portafolio_para_PROFEPA
+# Portafolio PROFEPA
 
 Este repositorio reúne una selección de proyectos y desarrollos aplicados en mi trayectoria profesional, académica y técnica. Incluye ejemplos de:
 
