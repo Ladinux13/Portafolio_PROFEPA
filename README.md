@@ -1,11 +1,3 @@
-# Portafolio_para_PROFEPA
+**Descripción:**
 
-Este repositorio reúne una selección de proyectos y desarrollos aplicados en mi trayectoria profesional, académica y técnica. Incluye ejemplos de:
-
-1. Automatización de procesos institucionales en Python
-2. Modelos de aprendizaje automático para clasificación y predicción
-3. Análisis espacial y geoespacial de datos
-4. Desarrollo de dashboards interactivos y herramientas analíticas
-5. Proyectos variados
-
-
+En esta sección se presentan proyectos con enfoque geoespacial, que integran el análisis de datos geográficos mediante técnicas de sistemas de información geográfica (SIG) y modelos geoespaciales. Algunos de los desarrollos incluyen la aplicación de aprendizaje automático 
